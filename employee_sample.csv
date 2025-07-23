@@ -1,0 +1,25 @@
+NAME,GENDER,RACE,DEPARTMENT,YEARS EXPERIENCE,SALARY
+Tom,Male,White,Engineering,23,107962
+Tom1,Male,White,Engineering,23,107962
+Niko,Male,Black,Engineering,1,30347
+Niko2,Male,Black,Engineering,1,30347
+Niko3,Male,Black,Engineering,1,30347
+Penelope,Female,White,Engineering,12,60258
+Aria,Female,Black,Engineering,8,43618
+Sofia,Female,Black,Parks & Recreation,23,26125
+Dean,Male,Black,Parks & Recreation,3,33592
+Zach,Male,White,Parks & Recreation,4,37565
+Zach2,Male,White,Parks & Recreation,4,37565
+Aria1,Female,Black,Houston Police Department-HPD,8,43618
+Sofia1,Female,Black,Houston Police Department-HPD,23,26125
+Dean1,Male,Black,Houston Police Department-HPD,3,33592
+Zach1,Male,White,Houston Police Department-HPD,4,37565
+Aria2,Female,Black,Houston Fire Department (HFD),8,43618
+Sofia2,Female,Black,Houston Fire Department (HFD),23,26125
+Dean2,Male,Black,Houston Fire Department (HFD),3,33592
+Zach2,Male,White,Houston Fire Department (HFD),4,37565
+Zach3,Male,White,Houston Fire Department (HFD),4,37565
+Zach4,Male,White,Houston Airport System (HAS),4,37565
+Niko5,Male,Black,Houston Airport System (HAS),1,30347
+Penelope5,Female,White,Houston Airport System (HAS),12,60258
+Aria5,Female,Black,Houston Airport System (HAS),8,43618
