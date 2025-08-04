@@ -1,11 +1,81 @@
-date,weight
-2019-10-01,
-2019-10-02,205.0
-2019-10-03,
-2019-10-04,
-2019-10-05,201.0
-2019-10-06,
-2019-10-07,
-2019-10-08,
-2019-10-09,199.0
-2019-10-10,
+Name,Month,Week,Weight
+Bob,Jan,Week 1,197
+Amy,Jan,Week 1,291
+Bob,Jan,Week 2,189
+Amy,Jan,Week 2,288
+Bob,Jan,Week 3,189
+Amy,Jan,Week 3,283
+Bob,Jan,Week 4,190
+Amy,Jan,Week 4,283
+Bob,Feb,Week 1,188
+Amy,Feb,Week 1,281
+Bob,Feb,Week 2,185
+Amy,Feb,Week 2,279
+Bob,Feb,Week 3,183
+Amy,Feb,Week 3,277
+Bob,Feb,Week 4,180
+Amy,Feb,Week 4,275
+Bob,Mar,Week 1,175
+Amy,Mar,Week 1,273
+Bob,Mar,Week 2,175
+Amy,Mar,Week 2,271
+Bob,Mar,Week 3,173
+Amy,Mar,Week 3,269
+Bob,Mar,Week 4,171
+Amy,Mar,Week 4,267
+Bob,Apr,Week 1,169
+Amy,Apr,Week 1,264
+Bob,Apr,Week 2,166
+Amy,Apr,Week 2,262
+Bob,Apr,Week 3,164
+Amy,Apr,Week 3,260
+Bob,Apr,Week 4,162
+Amy,Apr,Week 4,258
+Bob,May,Week 1,160
+Amy,May,Week 1,256
+Bob,May,Week 2,157
+Amy,May,Week 2,254
+Bob,May,Week 3,155
+Amy,May,Week 3,252
+Bob,May,Week 4,153
+Amy,May,Week 4,250
+Bob,Jun,Week 1,151
+Amy,Jun,Week 1,248
+Bob,Jun,Week 2,149
+Amy,Jun,Week 2,246
+Bob,Jun,Week 3,146
+Amy,Jun,Week 3,244
+Bob,Jun,Week 4,144
+Amy,Jun,Week 4,241
+Bob,Jul,Week 1,142
+Amy,Jul,Week 1,239
+Bob,Jul,Week 2,140
+Amy,Jul,Week 2,237
+Bob,Jul,Week 3,138
+Amy,Jul,Week 3,235
+Bob,Jul,Week 4,135
+Amy,Jul,Week 4,233
+Bob,Aug,Week 1,133
+Amy,Aug,Week 1,231
+Bob,Aug,Week 2,131
+Amy,Aug,Week 2,229
+Bob,Aug,Week 3,129
+Amy,Aug,Week 3,227
+Bob,Aug,Week 4,126
+Amy,Aug,Week 4,225
+Bob,Sep,Week 1,124
+Amy,Sep,Week 1,223
+Bob,Sep,Week 2,122
+Amy,Sep,Week 2,221
+Bob,Sep,Week 3,120
+Amy,Sep,Week 3,218
+Bob,Sep,Week 4,118
+Amy,Sep,Week 4,216
+Bob,Oct,Week 1,115
+Amy,Oct,Week 1,214
+Bob,Oct,Week 2,113
+Amy,Oct,Week 2,212
+Bob,Oct,Week 3,111
+Amy,Oct,Week 3,210
+Bob,Oct,Week 4,109
+Amy,Oct,Week 4,208
