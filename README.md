@@ -1,3 +1,5 @@
+学习链接：`https://github.com/PacktPublishing/Pandas-Cookbook`
+
 ## 学习计划（7/28 -- 8/10）
 |时间|打算学习内容|实际学习进度
 |--|--|--|
